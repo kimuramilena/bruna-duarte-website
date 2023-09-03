@@ -1,5 +1,5 @@
 # Bruna's website
 
-link:
+link: https://kimuramilena.github.io/bruna-duarte-website/#contact
 
 
